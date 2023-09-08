@@ -1,1 +1,3 @@
 venv
+.Vscode
+.mypy_cache
